@@ -1,7 +1,4 @@
 
-  # Valentine's Day Proposal App
-
-  This is a code bundle for Valentine's Day Proposal App. The original project is available at https://www.figma.com/design/qTcEHnBYwZGGyalyhLYsho/Valentine-s-Day-Proposal-App.
 
   ## Running the code
 
